@@ -5,7 +5,7 @@ public class main3 {
 
     public static void main(String[] args)  {
 
-//Droga
+//sdls,pdkapdasplds[adas
 
 
 }}
